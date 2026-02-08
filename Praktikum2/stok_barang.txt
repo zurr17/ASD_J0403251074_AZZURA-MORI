@@ -1,0 +1,6 @@
+B001,Aqua Botol,50
+B002,Mie Goreng,30
+B003,Roti Coklat,25
+B004,Kopi Sachet,40
+B005,Teh Kotak,35
+B006,Biskuit Roma,21
