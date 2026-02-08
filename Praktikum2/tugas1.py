@@ -18,8 +18,6 @@ def baca_stok(nama_file):
                 if baris:
                     kode, nama, stok = baris.split(",")
                     stok_dict[kode] = {"nama": nama, "stok": int(stok)}
-    except FileNotFoundError:
-        pass
     return stok_dict
 
 def simpan_stok(nama_file, stok_dict):
@@ -102,4 +100,5 @@ def main():
             print("Pilihan tidak valid.")
 
 if __name__ == "__main__":
+
     main()
