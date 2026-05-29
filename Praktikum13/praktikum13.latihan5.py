@@ -44,7 +44,7 @@ print("Total bobot minimum =", total_bobot)
 
 # Jawaban Analisis:
 # 1. Kasus apa yang dipilih?
-# Jawab: Jaringan Komputer
+# Jawab: 2. Jaringan Komputer
 # 2. Algoritma apa yang digunakan?
 # Jawab: Kruskal
 # 3. Edge mana saja yang dipilih dalam MST?
